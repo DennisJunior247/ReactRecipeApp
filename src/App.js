@@ -62,7 +62,7 @@ const App = () => {
           />
 
           <button className="search-button" type="submit">
-            search
+            enter
           </button>
         </div>
       </form>
